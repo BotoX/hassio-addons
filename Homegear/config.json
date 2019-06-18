@@ -14,6 +14,7 @@
     "amd64",
     "armhf",
     "armel",
+    "aarch64",
     "i386"
   ],
   "full_access":true,
