@@ -11,10 +11,10 @@
     "SYS_RAWIO"
   ],
   "arch": [
+    "aarch64",
     "amd64",
     "armhf",
-    "armel",
-    "aarch64",
+    "armv7",
     "i386"
   ],
   "full_access":true,
